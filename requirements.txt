@@ -1,0 +1,5 @@
+opencv-python==4.8.0.74          # For video capture and processing
+pyaudio==0.2.13                  # For real-time audio capture
+SpeechRecognition==3.8.1         # For speech-to-text transcription
+pyttsx3==2.90                    # For text-to-speech conversion
+openai==0.27.8                   # For AI response generation
