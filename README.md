@@ -4,11 +4,16 @@
 An interactive system that captures real-time audio and video, transcribes speech, generates AI responses, and converts them into speech for seamless communication.
 
 ## Features
--Real-time audio and video recording.
+-Real-time audio and video recording. 
+
 -Speech-to-text transcription using Google API.
+
 -AI-powered response generation via OpenAI GPT.
+
 -Text-to-speech conversion with pyttsx3.
+
 -Modular design for reusability.
+
 
 ## Installation
 
